@@ -1698,3 +1698,66 @@ expected escape sequence of 8 hexadecimal numbers, but found 's'
 2025-02-06 04:11:15 INFO watcher.py:39: Created file watcher for path C:\Users\clewi\.config\yasb
 2025-02-06 04:11:15 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
 2025-02-06 04:11:15 DEBUG _windows.py:192: Thread started
+2025-02-06 04:34:05 DEBUG _windows.py:218: Stopping worker thread...
+2025-02-06 04:34:05 DEBUG _windows.py:201: Exiting thread
+2025-02-06 04:34:05 DEBUG _windows.py:75: Closing
+2025-02-06 04:34:05 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL update_event of TaskbarWidget object at 0x000001CF04896A30>. Removing link to WinEvent.EventObjectDestroy.
+2025-02-06 04:34:05 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL update_event of TaskbarWidget object at 0x000001CF07FD4870>. Removing link to WinEvent.EventObjectDestroy.
+2025-02-06 15:04:18 INFO log.py:21: Yasb v1.5.8
+2025-02-06 15:04:19 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-06 15:04:19 INFO app_bar.py:103: Bar Created on Screen: 2460G4 [Bar Height: 22px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-06 15:04:20 INFO app_bar.py:103: Bar Created on Screen: VG248 [Bar Height: 22px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 1920, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-06 15:04:20 INFO watcher.py:39: Created file watcher for path C:\Users\clewi\.config\yasb
+2025-02-06 15:04:20 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-06 15:04:20 DEBUG _windows.py:192: Thread started
+2025-02-06 15:23:39 INFO log.py:21: Yasb v1.5.8
+2025-02-06 15:23:39 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-06 15:23:40 INFO app_bar.py:103: Bar Created on Screen: 2460G4 [Bar Height: 22px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-06 15:23:40 INFO app_bar.py:103: Bar Created on Screen: VG248 [Bar Height: 22px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 1920, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-06 15:23:40 INFO watcher.py:39: Created file watcher for path C:\Users\clewi\.config\yasb
+2025-02-06 15:23:40 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-06 15:23:40 DEBUG _windows.py:192: Thread started
+2025-02-06 15:30:07 INFO log.py:21: Yasb v1.5.8
+2025-02-06 15:30:07 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-06 15:30:07 INFO app_bar.py:103: Bar Created on Screen: 2460G4 [Bar Height: 22px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-06 15:30:08 INFO app_bar.py:103: Bar Created on Screen: VG248 [Bar Height: 22px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 1920, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-06 15:30:08 INFO watcher.py:39: Created file watcher for path C:\Users\clewi\.config\yasb
+2025-02-06 15:30:08 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-06 15:30:08 DEBUG _windows.py:192: Thread started
+2025-02-06 15:32:37 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-06 15:32:46 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-06 16:13:36 INFO log.py:21: Yasb v1.5.8
+2025-02-06 16:13:36 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-06 16:13:36 INFO app_bar.py:103: Bar Created on Screen: 2460G4 [Bar Height: 22px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-06 16:13:36 INFO app_bar.py:103: Bar Created on Screen: VG248 [Bar Height: 22px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 1920, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-06 16:13:36 INFO watcher.py:39: Created file watcher for path C:\Users\clewi\.config\yasb
+2025-02-06 16:13:36 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-06 16:13:36 DEBUG _windows.py:192: Thread started
+2025-02-07 00:55:55 DEBUG _windows.py:218: Stopping worker thread...
+2025-02-07 00:55:55 DEBUG _windows.py:201: Exiting thread
+2025-02-07 00:55:55 DEBUG _windows.py:75: Closing
+2025-02-07 00:55:55 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL update_event of TaskbarWidget object at 0x0000020BAA406A30>. Removing link to WinEvent.EventObjectDestroy.
+2025-02-07 00:55:55 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL update_event of TaskbarWidget object at 0x0000020BABB549B0>. Removing link to WinEvent.EventObjectDestroy.
+2025-02-07 10:19:55 INFO log.py:21: Yasb v1.5.8
+2025-02-07 10:19:56 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-07 10:19:56 INFO app_bar.py:103: Bar Created on Screen: 2460G4 [Bar Height: 22px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-07 10:19:56 INFO app_bar.py:103: Bar Created on Screen: VG248 [Bar Height: 22px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 1920, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-07 10:19:56 INFO watcher.py:39: Created file watcher for path C:\Users\clewi\.config\yasb
+2025-02-07 10:19:56 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-07 10:19:56 DEBUG _windows.py:192: Thread started
+2025-02-07 10:22:41 DEBUG _windows.py:218: Stopping worker thread...
+2025-02-07 10:22:41 DEBUG _windows.py:201: Exiting thread
+2025-02-07 10:22:41 DEBUG _windows.py:75: Closing
+2025-02-07 10:22:41 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL update_event of TaskbarWidget object at 0x0000022038AE6A30>. Removing link to WinEvent.EventObjectDestroy.
+2025-02-07 10:22:41 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL update_event of TaskbarWidget object at 0x000002203A2349B0>. Removing link to WinEvent.EventObjectDestroy.
+2025-02-07 10:24:17 INFO log.py:21: Yasb v1.5.8
+2025-02-07 10:24:18 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-07 10:24:18 INFO app_bar.py:103: Bar Created on Screen: 2460G4 [Bar Height: 22px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-07 10:24:18 INFO app_bar.py:103: Bar Created on Screen: VG248 [Bar Height: 22px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 1920, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-07 10:24:18 INFO watcher.py:39: Created file watcher for path C:\Users\clewi\.config\yasb
+2025-02-07 10:24:18 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-07 10:24:18 DEBUG _windows.py:192: Thread started
+2025-02-07 10:25:59 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-07 10:26:18 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-07 10:27:53 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-07 10:28:36 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.

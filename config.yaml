@@ -27,7 +27,7 @@ bars:
       round_corners_type: "normal"
       border_color: "System"
     window_flags:
-      always_on_top: true
+      always_on_top: false
       windows_app_bar: true
     dimensions:
       width: "100%"
@@ -51,9 +51,9 @@ bars:
         "taskbar",
       ]
       right: [
+        "media",
         "microphone",
         "volume",
-        "media",
         # "media",
         # "taskbar",
         # "apps",
